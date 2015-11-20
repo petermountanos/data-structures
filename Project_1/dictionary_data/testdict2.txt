@@ -1,0 +1,11 @@
+ab
+abc
+ac
+acb
+ba
+bac
+bc 
+bca
+ca
+cab
+cba
